@@ -11,7 +11,7 @@ The data file name `S1_05_100.csv` contains folowwing information:
 * `05` the serial number of this measurement on this day relative to other measurements;
 * `100` gas concentration (ppm). File structure: rows — examples; columns — attributes. Indexes and heads are absent.
 
-[https://github.com/olfactum/olfactum.github.io/blob/master/data_description/file_tree.png](url) and ![Image](src)
+![https://github.com/olfactum/olfactum.github.io/blob/master/data_description/file_tree.png](src)
 
 ### File structure:
 * Rows — samples; Columns — features. No indexes and headers;
