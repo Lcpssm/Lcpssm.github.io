@@ -11,7 +11,7 @@ The data file name `S1_05_100.csv` contains folowwing information:
 * `05` the serial number of this measurement on this day relative to other measurements;
 * `100` gas concentration (ppm).
 
-![](https://yadi.sk/i/FDgk-V67wjGzyQ)
+![](https://ibb.co/qsbQY0c)
 
 ### File structure:
 * Rows — samples; Columns — features. No indexes and headers;
