@@ -9,7 +9,7 @@ Date of measurement -> Gas type -> Gas concentration -> Data file.
 The data file name `S1_05_100.csv` contains folowwing information:
 * `S1` the type of measuring sensor;
 * `05` the serial number of this measurement on this day relative to other measurements;
-* `100` gas concentration (ppm). File structure: rows — examples; columns — attributes. Indexes and heads are absent.
+* `100` gas concentration (ppm).
 
 ![Image](https://github.com/olfactum/olfactum.github.io/blob/master/data_description/file_tree.png)
 
