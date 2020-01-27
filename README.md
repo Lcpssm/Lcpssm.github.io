@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/alexlamer/olfactum.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Metane\Propane semiconductor sensor's data
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The data set represents real measurements of semiconductor gas sensors.
 
-### Markdown
+### Data folder structure:
+Date of measurement -> Gas type -> Gas concentration -> Data file.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The data file name `S1_05_100.csv` contains folowwing information:
+* `S1` the type of measuring sensor;
+* `05` the serial number of this measurement on this day relative to other measurements;
+* `100` gas concentration (ppm). File structure: rows — examples; columns — attributes. Indexes and heads are absent.
 
-```markdown
-Syntax highlighted code block
+[https://github.com/olfactum/olfactum.github.io/blob/master/data_description/file_tree.png](url) and ![Image](src)
 
-# Header 1
-## Header 2
-### Header 3
+### File structure:
+* Rows — samples; Columns — features. No indexes and headers;
+* 1 Measurement = 2 consecutive rows (temperature and resistance of the gas sensor);
+* Duration = 1 minute with a sampling frequency of 10 Hz; 
+* The sequence of rows corresponds to the sequence of measurements over time. 
 
-- Bulleted
-- List
+It is strongly recommended to skip the first 5 measurements (10 rows) due to distortion observed when measuring a new type of gas was started.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexlamer/olfactum.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Data is available for download at the following link:
