@@ -11,7 +11,7 @@ The data file name `S1_05_100.csv` contains folowwing information:
 * `05` the serial number of this measurement on this day relative to other measurements;
 * `100` gas concentration (ppm).
 
-![Image](https://github.com/olfactum/olfactum.github.io/blob/master/data_description/file_tree.png)
+![Image](https://olfactum.github.io/data_description/file_tree.png)
 
 ### File structure:
 * Rows — samples; Columns — features. No indexes and headers;
