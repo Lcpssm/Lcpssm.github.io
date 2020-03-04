@@ -23,3 +23,5 @@ It is strongly recommended to skip the first 5 measurements (10 rows) due to dis
 
 Data is available for download at the following link:
 [GoogleDrive](https://drive.google.com/open?id=1Qb9TXG2SMsmoO41QBvKoCiFFZMWLfhkr)
+Some data processing techniques are demonstrated here:
+[Ipython](https://github.com/Lcpssm/Lcpssm.github.io/blob/master/data_processing/data%20processing%20demo.ipynb)
