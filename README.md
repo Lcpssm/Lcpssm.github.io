@@ -22,4 +22,4 @@ The data file name `S1_05_100.csv` contains folowwing information:
 It is strongly recommended to skip the first 5 measurements (10 rows) due to distortion observed when measuring a new type of gas was started.
 
 Data is available for download at the following link:
-[Link](https://link2data)
+[Link](https://drive.google.com/open?id=1Qb9TXG2SMsmoO41QBvKoCiFFZMWLfhkr)
