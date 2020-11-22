@@ -26,3 +26,6 @@ Data is available for download at the following link:
 
 Some data processing techniques are demonstrated here:
 [Ipython](https://github.com/Lcpssm/Lcpssm.github.io/blob/master/data_processing/data%20processing%20demo.ipynb)
+
+## References
+>  *Krivetskiy Valeriy V., Andreev Matvei D., Efitorov Aleksandr O., Gaskov Alexander M. Statistical shape analysis pre-processing of temperature modulated metal oxide gas sensor response for machine learning improved selectivity of gases detection in real atmospheric conditions. Sensors and Actuators, B: Chemical, 129187. Elsevier BV, 2020 http://dx.doi.org/10.1016/j.snb.2020.129187*
